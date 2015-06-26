@@ -1,0 +1,13 @@
+﻿<h1  >asrghsearthserthsehrseh</h1>
+<div data-ng-init="getItemDetail()">
+    <ul id="products" class="list clearfix">
+        <li class="clearfix">
+            <img ng-click="getOne()" src="{{ itemDetail.Foto }}" width="150" height="150">
+            <a>{{ itemDetail.Name }}</a>
+            <span class="price">{{ itemDetail.Price }}</span>
+            <span class="price">{{ itemDetail.Discription }}</span>
+            <ngcart-addtocart id="{{ itemDetail.Id }}" name="{{ itemDetail.Name }}" price="{{ itemDetail.Price }}" foto="{{ itemDetail.Foto }}" quantity="1" quantity-max="30" data="item"></ngcart-addtocart>
+        </li>
+
+    </ul>
+</div>

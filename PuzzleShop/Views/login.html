@@ -1,0 +1,28 @@
+﻿<div>
+    <form class="form-horizontal" name="addloginform">
+        <div class="form-group">
+            <label for="title" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+                <input type="text" data-ng-model="item.Email" class="form-control" id="title" placeholder="Name" required title="Name" />
+            </div>
+            <label for="title" class="col-sm-2 control-label">Password</label>
+            <div class="col-sm-10">
+                <input type="text" data-ng-model="item.Password" class="form-control" id="title" placeholder="Location" />
+            </div>
+            
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <span data-ng-hide="editMode">
+                    <input type="submit" value="Add" ng-disabled="addloginform.$invalid" data-ng-click="Autorization()" class="btn btn-primary" />
+                </span>
+                <span data-ng-show="editMode">
+                    <input type="submit" value="Update" ng-disabled="addloginform.$invalid" data-ng-click="update()" class="btn btn-primary" />
+                </span>
+                <input type="button" value="Cancel" data-ng-click="cancel()" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+</div>
+
+

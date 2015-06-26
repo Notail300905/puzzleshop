@@ -1,0 +1,36 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\PuzzleShop.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\PuzzleShop.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\PuzzleShop.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\obj\Debug\PuzzleShop.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\obj\Debug\PuzzleShop.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\PuzzleShop\PuzzleShop\obj\Debug\PuzzleShop.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\PuzzleShop.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\PuzzleShop.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\PuzzleShop.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\obj\Debug\PuzzleShop.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\obj\Debug\PuzzleShop.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\New folder\PuzzleShop-test2\PuzzleShop\obj\Debug\PuzzleShop.csprojResolveAssemblyReference.cache

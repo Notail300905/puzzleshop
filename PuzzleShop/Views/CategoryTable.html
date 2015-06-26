@@ -1,0 +1,25 @@
+﻿<div>
+    <div class="row text-right">
+        <ul class="list-inline">
+            <li><a href="#" id="gridview" class="btn btn-default switcher"><img src="icons/1.png" height="20" width="20" /></a></li>
+            <li><a href="#" id="listview" class="btn btn-default switcher active"><img src="icons/2.png" height="20" width="20" /></a></li>
+        </ul>
+    </div>
+    <ngcart-summary></ngcart-summary>
+    <ul id="products" class="list clearfix">
+        <li class="clearfix">
+            <a href="#/CategoryTable" role="button">View details &raquo;</a>
+            <section class="left" data-ng-repeat="item in items ">
+
+                <h4> {{ item.product_Category }} </h4>
+
+                <p><a ng-click="getCategoryId(item.Id)" class="btn btn-default" href="#/SubCategory" role="button">View details &raquo;</a></p>
+            </section>
+        </li>
+
+    </ul>
+
+
+
+
+</div>
